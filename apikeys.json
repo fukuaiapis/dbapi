@@ -1,1 +1,11 @@
-{}
+{
+  "fuku_6d0027": {
+    "name": "gugh",
+    "created": "2026-02-02T04:36:04.556Z",
+    "limit": 220,
+    "remaining": 220,
+    "totalUsed": 0,
+    "usageHistory": [],
+    "lastUsed": null
+  }
+}
