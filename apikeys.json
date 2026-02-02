@@ -7,5 +7,14 @@
     "totalUsed": 0,
     "usageHistory": [],
     "lastUsed": null
+  },
+  "fuku_2a6e6b": {
+    "name": "TestKey",
+    "created": "2026-02-02T04:57:26.683Z",
+    "limit": 220,
+    "remaining": 220,
+    "totalUsed": 0,
+    "usageHistory": [],
+    "lastUsed": null
   }
 }
