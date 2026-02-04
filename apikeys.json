@@ -39,9 +39,9 @@
     "name": "Bot waku (ahmadlbk12345@gmail.com)",
     "created": "2026-02-04T03:24:54.326Z",
     "limit": 220,
-    "remaining": 220,
-    "totalUsed": 0,
+    "remaining": 219,
+    "totalUsed": 1,
     "usageHistory": [],
-    "lastUsed": null
+    "lastUsed": "2026-02-04T03:25:10.378Z"
   }
 }
